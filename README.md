@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vanignana
+- 👋 Hi, I’m @vani
 - 👀 I’m interested in learning Cloud and Devops.
-- 🌱 I’m currently learning React Js, Angular, Springboot and Microservices.
+- 🌱 I’m currently learning Java,Cloud,Springboot and Microservices.
 - 💞️ I’m looking to collaborate on Learning cloud and Devops.
-- 📫 How to reach me vanisankararaj@gmail.com
+- 📫 How to reach me vanisankarraj@gmail.com
 
 <!---
 vanignana/vanignana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
